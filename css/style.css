@@ -1,0 +1,14 @@
+.manik-bg-info{
+    background-color: #fceae8;
+}
+.categories img{
+width: 100px;
+}
+.manik-btn-buy-mondal{
+    color: white;
+    border-radius: 10px;
+    padding: 10px 25px;
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+
+}
